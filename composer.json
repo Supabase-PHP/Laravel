@@ -2,6 +2,12 @@
     "name": "supabase-php/laravel",
     "description": "Supabase for Laravel framework.",
     "type": "library",
+    "keywords": [
+        "supabase",
+        "laravel",
+        "client",
+        "supabase-php"
+    ],
     "require": {
         "php": "^8.2"
     },
