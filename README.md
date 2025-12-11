@@ -1,7 +1,7 @@
 # Supabase-Laravel
 Supabase for Laravel framework.
 
-![Packagist Version](https://img.shields.io/packagist/v/cloverphp/clover?style=flat&logo=composer&logoColor=%23fff)
+![Packagist Version](https://img.shields.io/packagist/v/supabase-php/laravel?style=flat&logo=composer&logoColor=%23fff)
 ![Packagist Dependency Version](https://img.shields.io/packagist/dependency-v/supabase-php/laravel/php?style=flat&logo=php&logoColor=blue&label=PHP&color=blue)
 ![Packagist License](https://img.shields.io/packagist/l/supabase-php/laravel?style=flat&label=License&color=blue)
 ![Packagist Downloads](https://img.shields.io/packagist/dt/supabase-php/laravel?style=flat&logo=packagist&label=Downloads&color=blue)
